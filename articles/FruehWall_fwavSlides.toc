@@ -1,0 +1,13 @@
+\beamer@endinputifotherversion {3.33pt}
+\beamer@sectionintoc {1}{Introduction}{2}{0}{1}
+\beamer@sectionintoc {2}{Blocking and Contrast}{5}{0}{2}
+\beamer@subsectionintoc {2}{1}{How doublets resolve, and why.}{5}{0}{2}
+\beamer@sectionintoc {3}{Competing Grammars}{9}{0}{3}
+\beamer@subsectionintoc {3}{1}{Syntactic Optionality as Competing Grammars}{9}{0}{3}
+\beamer@subsectionintoc {3}{2}{A Minimalist Hypothesis for Variation/Optionality}{12}{0}{3}
+\beamer@subsectionintoc {3}{3}{Example: Embedded Polar Questions}{14}{0}{3}
+\beamer@sectionintoc {4}{Stable Variation}{19}{0}{4}
+\beamer@subsectionintoc {4}{1}{Example: Topicalization}{20}{0}{4}
+\beamer@subsectionintoc {4}{2}{Example: -{\fontencoding {T3}\selectfont In}$\sim $-{\fontencoding {T3}\selectfont IN}}{21}{0}{4}
+\beamer@subsectionintoc {4}{3}{Acquisition Simulation}{22}{0}{4}
+\beamer@sectionintoc {5}{Conclusions}{23}{0}{5}
